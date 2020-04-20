@@ -18,6 +18,10 @@ Mode d'affichage complet: R   ( Non recommandé)
 ## Informations supplementaires
 La map 3D est générée aléatoirement à chaque excution en se basant sur la fractal Brownian Motion qui nous donne une fonction de bruit.
 
+Liens: 
+  - https://www.redblobgames.com/maps/terrain-from-noise/
+  - https://thebookofshaders.com/13/
+  
 ## Ameliorations à faire
 - Amélioration de la structure de donnée et des chunks
 - integration d'un joueur avec les loi de la physique
