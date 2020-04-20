@@ -1,10 +1,8 @@
 # MasterCraft (FR)
 
-MasterCraft est un programme "fortement inspiré de Minecraft" développé dans le cadre d'un projet universitaire de Synthèse d'Images, réalisé par des étudiants de l'Institut Gaspard Monge (Université Gustave Eiffel, ex-Université Paris-Est Marne-la-Vallée).
+MasterCraft est un programme "fortement inspiré de Minecraft" .
 
-Le but de ce projet est de réaliser un monde 3D
-représenté uniquement par des cubes 3D dans
-l’esprit de « Minecraft » à l'aide d'un moteur de rendu simple.
+Le but de ce projet est de réaliser un monde 3D représenté uniquement par des cubes 3D dans l’esprit de « Minecraft » à l'aide d'un moteur de rendu simple.
 
 ## Commandes du programme
 Utilisation d'une Camera FreeFly
