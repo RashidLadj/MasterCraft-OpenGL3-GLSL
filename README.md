@@ -29,3 +29,12 @@ Liens:
 - integration de personnages avec deplacements intelligents
 - Amelioration de la luminosité ( jours et nuit )
 
+## Lunch Game
+<pre><code>
+mkdir build
+cd build
+cmake ..
+make
+./src_MineCraftProgram/src_MineCraftProgram_MyProgram
+</code></pre>
+
